@@ -5,7 +5,7 @@ const config = {
 
   AUTH_COOKIE_NAME: 'auth-token',
 
-  BASE_URL: 'http://localhost:8080',
+  BASE_URL: 'https://get-cat-back.herokuapp.com',
   API_ENDPOINT: '/api/v1',
 };
 
