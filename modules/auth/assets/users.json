@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "name": "Маша",
+        "email": "masha@gmail.com",
+        "password": "lolkekkkk",
+        "phone": "+79853453322"
+    },
+    {
+        "id": "2",
+        "name": "Игорь",
+        "email": "igor@ya.ru",
+        "password": "mypassword1234",
+        "phone": "+79853421167"
+    },
+    {
+        "id": "3",
+        "name": "Макс",
+        "email": "maxim@mail.ru",
+        "password": "qwerty",
+        "phone": "+9769771234567"
+    }
+]

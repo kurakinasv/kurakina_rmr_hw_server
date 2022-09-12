@@ -1,0 +1,21 @@
+{
+  "name": "kurakina_rmr_hw_server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "http-proxy-middleware": "^2.0.6",
+    "nodemon": "^2.0.19"
+  }
+}
