@@ -5,7 +5,7 @@ const config = {
 
   AUTH_COOKIE_NAME: 'auth-token',
 
-  BASE_URL: 'https://get-cat-back.herokuapp.com',
+  BASE_URL: 'https://get-cat-app.netlify.app',
   API_ENDPOINT: '/api/v1',
 };
 
